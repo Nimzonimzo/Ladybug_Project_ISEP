@@ -13,5 +13,5 @@ This collaborative project aims to automate the study of ladybug populations, wi
 ## Technologies Used
 - Python
 - [Jupyter Notebook](https://jupyter.org/) - Used for interactive and collaborative development.
-- [Machine Learning Libraries](https://scikit-learn.org/, https://www.tensorflow.org/) - Utilized for training and deploying the ladybug classification model.
+- [Machine Learning Libraries] - Utilized for training and deploying the ladybug classification model.
 - [GitHub](https://github.com/) - Version control and collaborative development.
